@@ -1,0 +1,12 @@
+23.03.2017 05:35:21 <!-- sql=[DELETE FROM vp_products WHERE prod_id=3] --> 
+23.03.2017 05:35:57 <!-- sql=[DELETE FROM vp_products WHERE prod_id=3] --> 
+23.03.2017 05:36:18 <!-- sql=[DELETE FROM vp_products WHERE prod_id=3] --> 
+23.03.2017 05:36:41 <!-- sql=[DELETE FROM vp_products WHERE prod_id=3] --> 
+23.03.2017 05:38:21 <!-- sql=[DELETE FROM vp_users WHERE prod_id=3] --> 
+23.03.2017 05:38:25 <!-- sql=[DELETE FROM vp_users WHERE prod_id=3] --> 
+23.03.2017 05:38:51 <!-- sql=[DELETE FROM vp_users WHERE prod_id=3] --> 
+23.03.2017 05:39:37 <!-- sql=[DELETE FROM vp_users WHERE id=3] --> 
+23.03.2017 05:40:38 <!-- sql=[DELETE FROM vp_users WHERE id=8] --> 
+01.04.2017 03:42:37 <!-- sql=[DELETE FROM vp_users WHERE id=15] --> 
+01.04.2017 03:42:45 <!-- sql=[DELETE FROM vp_users WHERE id=14] --> 
+04.04.2017 10:51:15 <!-- sql=[DELETE FROM vp_users WHERE id=9] --> 
